@@ -1,4 +1,5 @@
 # Covid-Czech10YBondRate
+!Project for study purposes!
 Analysis and comparison of statistics on Covid in the Czech Republic and the Price for a 10-year state bond of the Czech Republic
 Random number generator for uniform distribution on [0,1]
 A random number generator for a distribution law given by a continuous function (normal, exponential, gamma, Student's t,….).
